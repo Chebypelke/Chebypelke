@@ -3,7 +3,9 @@
 ###
 
 <div align="center">
+  <p> My skills </p>
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
 </div>
 
 ###
@@ -24,14 +26,15 @@
 
 ###
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Chebypelke&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
-</p>
+<div align="center">
+  <img src="" height="40" alt="arch logo"  />
+  <img width="12" />
+</div>
 
 ###
 
 <p align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Chebypelke&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Chebypelke&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
 </p>
 
 ###

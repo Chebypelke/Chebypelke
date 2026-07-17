@@ -1,37 +1,12 @@
-<h1 align="center"> Chebypela </h1>
+# Chebypela [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
 ###
 
-### My Skills: [(https://skillicons.dev/icons?i=js,html,css,wasm)]
+### My Skills: [![My Skills](https://skillicons.dev/icons?i=cpp,git)](https://skillicons.dev)
 
-<div align="center">
-  <p> My skills </p>
-  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-</div>
+### My favorite Linux distro's: [![Linux distro's](https://skillicons.dev/icons?i=arch)](https://skillicons.dev)
 
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-</div>
-
-###
-
-<div align="center">
-  <img src="" height="40" alt="arch logo"  />
-  <img width="12" />
-</div>
+### Some programs I use: [![Programs](https://skillicons.dev/icons?i=vscode,visualstudio,discord,obsidian,spotify)](https://skillicons.dev)
 
 ###
 

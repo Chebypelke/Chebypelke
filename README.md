@@ -2,7 +2,7 @@
 
 ###
 
-### My Skills: [![My Skills](https://skillicons.dev/icons?i=cpp,git)](https://skillicons.dev)
+### My skills: [![My Skills](https://skillicons.dev/icons?i=cpp,git)](https://skillicons.dev)
 
 ### My favorite Linux distro: [![Linux distro's](https://skillicons.dev/icons?i=arch)](https://skillicons.dev)
 

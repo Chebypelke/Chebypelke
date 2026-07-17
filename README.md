@@ -2,6 +2,8 @@
 
 ###
 
+### [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 <div align="center">
   <p> My skills </p>
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />

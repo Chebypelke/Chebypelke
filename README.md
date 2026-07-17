@@ -4,7 +4,7 @@
 
 ### My Skills: [![My Skills](https://skillicons.dev/icons?i=cpp,git)](https://skillicons.dev)
 
-### My favorite Linux distro's: [![Linux distro's](https://skillicons.dev/icons?i=arch)](https://skillicons.dev)
+### My favorite Linux distro: [![Linux distro's](https://skillicons.dev/icons?i=arch)](https://skillicons.dev)
 
 ### Some programs I use: [![Programs](https://skillicons.dev/icons?i=vscode,visualstudio,discord,obsidian,spotify)](https://skillicons.dev)
 

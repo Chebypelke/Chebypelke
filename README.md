@@ -1,6 +1,8 @@
 # Chebypela [![Linux](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
 
-###
+## Hi! 👋
+
+### My name is Andrey. I'm studying cybersecurity and also learning C++.
 
 ### My skills: [![My Skills](https://skillicons.dev/icons?i=cpp,git)](https://skillicons.dev)
 
